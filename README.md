@@ -25,6 +25,9 @@ that does not match its checksum.
 | `quran.en.rwwad` | en | Rowwad Translation Center — Translated by the team of the Rowwad Translation Center, v1.0.21 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
 | `quran.fr.montada` | fr | Noor International Center — Translated by Dr. Nabil Rudwan - issued by Noor International Center, v1.0.0 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
 | `quran.de.bubenheim` | de | Frank Bubenheim — Translated by ‘Abdullah as-Sāmit (Frank Bubenheim) and Dr. Nadim Elias, v1.1.5 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.bn.zakaria` | bn | Abu Bakr Zakaria — Translated by Abu Bakr Zakaria, v1.1.1 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.ru.rwwad` | ru | Rowwad Translation Center — Translated by the team of the Rowwad Translation Center, v1.0.1 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.ms.basumayyah` | ms | Abdullah Basumayyah — Translated by Abdullah Basumayyah, v1.0.0 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
 
 The texts are reproduced exactly as published by their sources, footnotes
 included. Corrections belong with the original publisher.
