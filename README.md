@@ -36,3 +36,18 @@ included. Corrections belong with the original publisher.
 
 ترجمات معاني القرآن وغيرها، منقولة حرفياً من مصادرها مع ذكر المصدر والإصدار،
 ولكل ملف بصمة يتحقق منها التطبيق قبل استخدامه.
+
+## Draft translations under review (adhkar + al-Nawawi's Forty)
+
+`drafts/<lang>/` holds the **draft** translations of the in-app adhkar and
+al-Nawawi's Forty Hadith, for review before release:
+
+- `review.html`: Arabic beside the translation, item by item (download and open in a browser).
+- `adhkar_nawawi40.<lang>.draft.json`: the source file the packs are built from.
+
+English was reviewed by the project owner; every other language was translated
+from that English by machine (Claude) and is **not yet reviewed by a native
+speaker or scholar**. The app labels these packs as drafts. Quoted Quran verses
+use each language's QuranEnc.com translation.
+
+Languages: en, fr, tr, ur, id, fa, hi, de, es, sw, ha, bn, ru, ms.
