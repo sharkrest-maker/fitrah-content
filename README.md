@@ -11,9 +11,20 @@ that does not match its checksum.
 
 ## Sources and terms
 
-| Pack | Text | Source | Terms |
-|---|---|---|---|
-| `quran.en.saheeh` | Saheeh International (Noor International Center), v1.1.2 | [QuranEnc.com](https://quranenc.com/en/browse/english_saheeh) | Republished unmodified, with source and version credited, as QuranEnc.com's terms require |
+| Pack | Language | Text | Source | Terms |
+|---|---|---|---|---|
+| `quran.en.saheeh` | en | Saheeh International — Noor International Center, v1.1.2 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.tr.rwwad` | tr | Rowwad Translation Center — Translated by the team of the Rowwad Translation Center, v1.0.4 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.ur.junagarhi` | ur | Muhammad Junagarhi — Translated by Muhammad Ibrahim Junagarhi, v1.1.3 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.id.affairs` | id | Ministry of Religious Affairs — Issued by the Indonesian Ministry of Religious Affairs, v1.0.1 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.fa.ih` | fa | Rowwad Translation Center — Translated by the team of the Rowwad Translation Center, v1.1.3 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.hi.omari` | hi | Azizul Haq Al-Omari — Translated by Azizul Haq Al-Omari, v1.1.5 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.es.montada_eu` | es | Noor International Center — Issued by Noor International, v1.0.1 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.sw.rwwad` | sw | Rowad Translation Center — Issued by the Islamic Content Service Association in Languages, v1.0.5 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.ha.gummi` | ha | Abu Bakr Jumi — Translated by Abu Bakr Mahmoud Jumi, v1.2.2 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.en.rwwad` | en | Rowwad Translation Center — Translated by the team of the Rowwad Translation Center, v1.0.21 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.fr.montada` | fr | Noor International Center — Translated by Dr. Nabil Rudwan - issued by Noor International Center, v1.0.0 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
+| `quran.de.bubenheim` | de | Frank Bubenheim — Translated by ‘Abdullah as-Sāmit (Frank Bubenheim) and Dr. Nadim Elias, v1.1.5 | [QuranEnc.com](https://quranenc.com) | Republished unmodified, with source and version credited (QuranEnc.com terms) |
 
 The texts are reproduced exactly as published by their sources, footnotes
 included. Corrections belong with the original publisher.
